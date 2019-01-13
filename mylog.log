@@ -1,0 +1,11 @@
+<ipython-input-3-8a20d0e3247e>[LINE:2]# DEBUG    [2018-12-24 16:52:30,627]  This is a debug message
+<ipython-input-3-8a20d0e3247e>[LINE:4]# INFO     [2018-12-24 16:52:30,628]  This is an info message
+<ipython-input-3-8a20d0e3247e>[LINE:6]# WARNING  [2018-12-24 16:52:30,628]  This is a warning
+<ipython-input-3-8a20d0e3247e>[LINE:8]# ERROR    [2018-12-24 16:52:30,628]  This is an error message
+<ipython-input-3-8a20d0e3247e>[LINE:10]# CRITICAL [2018-12-24 16:52:30,628]  FATAL!!!
+<ipython-input-4-6373a0247984>[LINE:2]# INFO     [2018-12-24 16:52:30,639]  Hello, World
+<ipython-input-8-46b202072e5c>[LINE:6]# ERROR    [2018-12-24 17:20:48,783]  Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-8-46b202072e5c>", line 4, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
